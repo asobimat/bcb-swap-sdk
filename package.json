@@ -1,5 +1,5 @@
 {
-  "name": "@bcbswap/bcb-swap-sdk",
+  "name": "@vinox/bcb-swap-sdk",
   "license": "MIT",
   "version": "2.4.3",
   "description": "🛠 An SDK for building applications on top of Bcbswap.",
